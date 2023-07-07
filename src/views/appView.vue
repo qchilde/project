@@ -1,5 +1,5 @@
 <template>
   <div>
-    <h1>子页面12</h1>
+    <h1>子页面1200</h1>
   </div>
 </template>
